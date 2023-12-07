@@ -1,6 +1,6 @@
 # Welcome
 
-### I'm Mauricio Soares, a Jr. Software Engineer.
+### I'm Mauricio Massayuki, a Jr. Software Engineer.
 
 I'm currently working with Elixir, Phoenix, and ReactJS with JavaScript and TypeScript.
 <br>
@@ -20,7 +20,9 @@ During my two years of college, I've been mainly in contact with Java and worked
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40px" height="40px" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" width="40px" height="40px" />  
-</div>       
+</div>    
+
+<br>
 
 <div>
     <a href="https://github.com/MauricioMSoares">
