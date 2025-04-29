@@ -1,8 +1,8 @@
 # Welcome
 
-### I'm Mauricio Massayuki, a Jr. Software Engineer.
+### I'm Mauricio Soares, a Software Engineer.
 
-I'm currently working with Elixir, Phoenix, and ReactJS with JavaScript and TypeScript.
+I'm working in IT since 2022, especially fond of front-end development and web design.
 <br>
 During my two years of college, I've been mainly in contact with Java and worked as an Intern in backend development, using Kotlin for the most part.
 
